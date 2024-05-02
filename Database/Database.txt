@@ -1,0 +1,5 @@
+1. Go to MySql workbench
+2. Create a datbase called "deezer"
+3. Server > Data import
+4. Give the path - ( ../ deezer)
+5. Click "Start import"
